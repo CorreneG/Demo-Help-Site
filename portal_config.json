@@ -1,8 +1,8 @@
 {
     "heroTitle": "This is the hero title",
     "heroSubtitle": "and this is a longer subtitle, probably in a smaller font",
-    "contentRuntimeRemote": true,
-    "contentBuildtimeRemote": false,
+    "contentRuntimeRemote": false,
+    "contentBuildtimeRemote": true,
     "contentBuildtimeStatic": false,
     "contentStaticDir": "ezd_content",
     "contentOrg": "world-pak",
