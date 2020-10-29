@@ -48,6 +48,7 @@ module.exports = {
                 CONTENT_CLIENT_OPTS: provider.get("contentClientOpts"),
                 REDIRECT_TO_FIRST_CONTENTFUL_CHILD: provider.get("redirectToFirstContentfulChild"),
                 CONTENT_TRANSFORMS: require("./src/transforms/index").default,
+                CONTENT_SEARCH_FACETS: []
             },
         },
     ],
