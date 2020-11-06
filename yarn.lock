@@ -2074,10 +2074,10 @@
     typescript-tslint-plugin "^0.5.3"
     workbox-window "^4.3.1"
 
-"@jorsek/gatsby-plugin-easydita@^0.12.9-next.3":
-  version "0.12.9-next.3"
-  resolved "https://registry.yarnpkg.com/@jorsek/gatsby-plugin-easydita/-/gatsby-plugin-easydita-0.12.9-next.3.tgz#bcbe7dc144c18031167f959afc9fd1c7763dd191"
-  integrity sha512-pwfDwpVEoyq6zZJX+bNwXxYXwGsVUcNLPlbe8cu2osh2E5HfR1iIKFRS2Y7hMz6MXOScJ2Evc3fP/ge1lJWv3Q==
+"@jorsek/gatsby-plugin-easydita@^0.12.9-next.6":
+  version "0.12.9-next.6"
+  resolved "https://registry.yarnpkg.com/@jorsek/gatsby-plugin-easydita/-/gatsby-plugin-easydita-0.12.9-next.6.tgz#a9b9005e7c167f6532e6636487d7107d44296afd"
+  integrity sha512-8S5jHH4xDULOfmmoJrme7A8vM21K+hFYxUncNtwbyqg/9+9upQG0cNGeMZOUtyMgMhkRykjG9N89/PuAz7J4yQ==
   dependencies:
     "@jorsek/ezd-client" "^1.1.9"
     "@types/cli-progress" "^3.4.2"
@@ -2094,14 +2094,14 @@
     typescript "^3.7.3"
     unzipper "^0.10.11"
 
-"@jorsek/gatsby-theme-easydita-core@^0.12.9-next.3":
-  version "0.12.9-next.3"
-  resolved "https://registry.yarnpkg.com/@jorsek/gatsby-theme-easydita-core/-/gatsby-theme-easydita-core-0.12.9-next.3.tgz#37da5912874f6dc21721de3b809209bfbe30862d"
-  integrity sha512-g7aDs3UOEQfl+PmqX44KcDOvfjnqHkJsvUv45ALKdZ904HApR1wdnXfKijdghTxiHm9Jq/GZrhvoDjZ3JUQbSw==
+"@jorsek/gatsby-theme-easydita-core@^0.12.9-next.6":
+  version "0.12.9-next.6"
+  resolved "https://registry.yarnpkg.com/@jorsek/gatsby-theme-easydita-core/-/gatsby-theme-easydita-core-0.12.9-next.6.tgz#71e8a8d8e6e55ce1a2e9652bee815fefaad8b0aa"
+  integrity sha512-DQ17yWfNYaD2gz3rLW9VVhrbnVMxXYk9RhQJOO01cvcafFn2mbY6ncz3lHYFzHiq9xGmXZVb8eDhY7VSgEmnog==
   dependencies:
     "@jorsek/ezd-client" "^1.1.9"
-    "@jorsek/gatsby-plugin-easydita" "^0.12.9-next.3"
-    "@jorsek/static-portal-components" "^0.12.9-next.3"
+    "@jorsek/gatsby-plugin-easydita" "^0.12.9-next.6"
+    "@jorsek/static-portal-components" "^0.12.9-next.6"
     "@material-ui/core" "^4.9.14"
     "@material-ui/styles" "^4.9.14"
     gatsby-image "^2.2.45"
@@ -2126,27 +2126,28 @@
     use-async-memo "^1.2.2"
     use-query-params "^1.1.8"
 
-"@jorsek/gatsby-theme-easydita-jsk@^0.12.9-next.2":
-  version "0.12.9-next.3"
-  resolved "https://registry.yarnpkg.com/@jorsek/gatsby-theme-easydita-jsk/-/gatsby-theme-easydita-jsk-0.12.9-next.3.tgz#b90129afc5f4cd36dee5e1a519e3e82a953da617"
-  integrity sha512-ON8AbfkV/zeskv4nT0PMOiIEhPXIoh2PK3JzEClVEpGlf/edC+POkhGoH5q5QYFINLF0Neg5cj5CpBQDWuuoKQ==
+"@jorsek/gatsby-theme-easydita-jsk@^0.12.9-next.6":
+  version "0.12.9-next.6"
+  resolved "https://registry.yarnpkg.com/@jorsek/gatsby-theme-easydita-jsk/-/gatsby-theme-easydita-jsk-0.12.9-next.6.tgz#2e330c2e99b535fb2f827b1474501dcf11a4b8d2"
+  integrity sha512-m2wMscvJFJUmX39PhFQAcfRzvhxOy8IUNTEa9IkmWLdOt3rZrorhC6p7ds/zm0iIiR/FwwfrevzrOx42bkcmvQ==
   dependencies:
     "@jorsek/ezd-client" "^1.1.9"
-    "@jorsek/gatsby-theme-easydita-core" "^0.12.9-next.3"
-    "@jorsek/static-portal-components" "^0.12.9-next.3"
+    "@jorsek/gatsby-theme-easydita-core" "^0.12.9-next.6"
+    "@jorsek/static-portal-components" "^0.12.9-next.6"
     "@material-ui/core" "~4.9.14"
     "@material-ui/icons" "~4.9.1"
     "@material-ui/lab" "^4.0.0-alpha.56"
     "@material-ui/styles" "~4.9.14"
+    react-share "^4.0.1"
     use-query-params "^1.1.8"
 
-"@jorsek/static-portal-components@^0.12.9-next.3":
-  version "0.12.9-next.3"
-  resolved "https://registry.yarnpkg.com/@jorsek/static-portal-components/-/static-portal-components-0.12.9-next.3.tgz#ebb21cb0d8d71f13c974b1f07887959dfee86fe2"
-  integrity sha512-B5GzZe5gXllsYptp81gJeUaGfWh2kw358NwknkQqXNUY3FzIdyvF5TcD6TqWXvIeopN4kJK34M8PZNQFLUoGHg==
+"@jorsek/static-portal-components@^0.12.9-next.6":
+  version "0.12.9-next.6"
+  resolved "https://registry.yarnpkg.com/@jorsek/static-portal-components/-/static-portal-components-0.12.9-next.6.tgz#836b74f1658a35f8165ad709c56290073b3a5ebe"
+  integrity sha512-MbJa2dGVR0ez5FB+qpEf/dQ2Gk45lqkr3nJv3QrdPOV/C71TUYy/RQEtQWFm+aTfuwlpdkIaG4ePcLK8ttZ5KQ==
   dependencies:
     "@jorsek/ezd-client" "^1.1.9"
-    "@jorsek/gatsby-theme-easydita-core" "^0.12.9-next.3"
+    "@jorsek/gatsby-theme-easydita-core" "^0.12.9-next.6"
     "@material-ui/core" "^4.9.14"
     "@material-ui/icons" "^4.9.1"
     "@material-ui/lab" "^4.0.0-alpha.56"
@@ -2160,8 +2161,10 @@
     jwt-decode "^2.2.0"
     material-ui-flat-pagination "^4.0.0"
     query-string "^6.11.1"
+    react "^16.8.4"
     react-checkbox-tree "^1.6.0"
     react-copy-to-clipboard "^5.0.2"
+    react-dom "^16.8.4"
     react-share "^4.0.1"
     rimraf "^3.0.2"
     tslint-react "~4.1.0"
@@ -14233,6 +14236,16 @@ react-dom@^16.12.0:
     prop-types "^15.6.2"
     scheduler "^0.19.1"
 
+react-dom@^16.8.4:
+  version "16.14.0"
+  resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.14.0.tgz#7ad838ec29a777fb3c75c3a190f661cf92ab8b89"
+  integrity sha512-1gCeQXDLoIqMgqD3IO2Ah9bnf0w9kzhwN5q4FGnHZ67hBm9yePzB5JJAIQCc8x3pFnNlwFq4RidZggNAAkzWWw==
+  dependencies:
+    loose-envify "^1.1.0"
+    object-assign "^4.1.1"
+    prop-types "^15.6.2"
+    scheduler "^0.19.1"
+
 react-dom@~16.12.0:
   version "16.12.0"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.12.0.tgz#0da4b714b8d13c2038c9396b54a92baea633fe11"
@@ -14407,6 +14420,15 @@ react@^16.8.0:
   version "16.13.0"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.0.tgz#d046eabcdf64e457bbeed1e792e235e1b9934cf7"
   integrity sha512-TSavZz2iSLkq5/oiE7gnFzmURKZMltmi193rm5HEoUDAXpzT9Kzw6oNZnGoai/4+fUnm7FqS5dwgUL34TujcWQ==
+  dependencies:
+    loose-envify "^1.1.0"
+    object-assign "^4.1.1"
+    prop-types "^15.6.2"
+
+react@^16.8.4:
+  version "16.14.0"
+  resolved "https://registry.yarnpkg.com/react/-/react-16.14.0.tgz#94d776ddd0aaa37da3eda8fc5b6b18a4c9a3114d"
+  integrity sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g==
   dependencies:
     loose-envify "^1.1.0"
     object-assign "^4.1.1"
