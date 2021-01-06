@@ -2074,10 +2074,10 @@
     typescript-tslint-plugin "^0.5.3"
     workbox-window "^4.3.1"
 
-"@jorsek/gatsby-plugin-easydita@^0.12.9-next.6":
-  version "0.12.9-next.6"
-  resolved "https://registry.yarnpkg.com/@jorsek/gatsby-plugin-easydita/-/gatsby-plugin-easydita-0.12.9-next.6.tgz#a9b9005e7c167f6532e6636487d7107d44296afd"
-  integrity sha512-8S5jHH4xDULOfmmoJrme7A8vM21K+hFYxUncNtwbyqg/9+9upQG0cNGeMZOUtyMgMhkRykjG9N89/PuAz7J4yQ==
+"@jorsek/gatsby-plugin-easydita@^0.12.9-next.8":
+  version "0.12.9-next.8"
+  resolved "https://registry.yarnpkg.com/@jorsek/gatsby-plugin-easydita/-/gatsby-plugin-easydita-0.12.9-next.8.tgz#1033a98d27cd005d62bb2d134aaed522957a5ea2"
+  integrity sha512-jod+69o6iCVXZBXAvxuwS/ZeRGn3G3iycy8NYwg6aDg3Ys53at1H8RkV4Dm/okbESvl6lcuJdA1dmvpDsTw4xg==
   dependencies:
     "@jorsek/ezd-client" "^1.1.9"
     "@types/cli-progress" "^3.4.2"
@@ -2094,14 +2094,14 @@
     typescript "^3.7.3"
     unzipper "^0.10.11"
 
-"@jorsek/gatsby-theme-easydita-core@^0.12.9-next.6":
-  version "0.12.9-next.6"
-  resolved "https://registry.yarnpkg.com/@jorsek/gatsby-theme-easydita-core/-/gatsby-theme-easydita-core-0.12.9-next.6.tgz#71e8a8d8e6e55ce1a2e9652bee815fefaad8b0aa"
-  integrity sha512-DQ17yWfNYaD2gz3rLW9VVhrbnVMxXYk9RhQJOO01cvcafFn2mbY6ncz3lHYFzHiq9xGmXZVb8eDhY7VSgEmnog==
+"@jorsek/gatsby-theme-easydita-core@^0.12.9-next.8":
+  version "0.12.9-next.8"
+  resolved "https://registry.yarnpkg.com/@jorsek/gatsby-theme-easydita-core/-/gatsby-theme-easydita-core-0.12.9-next.8.tgz#7c8cd41d2e42ba11c8a556b0ef8ecdc1c0deda6a"
+  integrity sha512-upSWgm5RDgJ/LCKML4iVs08tmQfxNsiJJyea7Khr1DS9BIdNGWh2QtgYxR9b7C4xR8a6q+A4gt1jrAv1BF69ew==
   dependencies:
     "@jorsek/ezd-client" "^1.1.9"
-    "@jorsek/gatsby-plugin-easydita" "^0.12.9-next.6"
-    "@jorsek/static-portal-components" "^0.12.9-next.6"
+    "@jorsek/gatsby-plugin-easydita" "^0.12.9-next.8"
+    "@jorsek/static-portal-components" "^0.12.9-next.8"
     "@material-ui/core" "^4.9.14"
     "@material-ui/styles" "^4.9.14"
     gatsby-image "^2.2.45"
@@ -2126,14 +2126,14 @@
     use-async-memo "^1.2.2"
     use-query-params "^1.1.8"
 
-"@jorsek/gatsby-theme-easydita-jsk@^0.12.9-next.6":
-  version "0.12.9-next.6"
-  resolved "https://registry.yarnpkg.com/@jorsek/gatsby-theme-easydita-jsk/-/gatsby-theme-easydita-jsk-0.12.9-next.6.tgz#2e330c2e99b535fb2f827b1474501dcf11a4b8d2"
-  integrity sha512-m2wMscvJFJUmX39PhFQAcfRzvhxOy8IUNTEa9IkmWLdOt3rZrorhC6p7ds/zm0iIiR/FwwfrevzrOx42bkcmvQ==
+"@jorsek/gatsby-theme-easydita-jsk@^0.12.9-next.7":
+  version "0.12.9-next.8"
+  resolved "https://registry.yarnpkg.com/@jorsek/gatsby-theme-easydita-jsk/-/gatsby-theme-easydita-jsk-0.12.9-next.8.tgz#bbe474989d0d1fb00aa9eaea18d079c5df9fdfaa"
+  integrity sha512-tXHbINeA0/ofmR2s9qyWS5zrp/GA2lwLhWPW+Q/Nm4RivaBwxjRapr2irpEyOvl1ZvLaP4FtKELRsEDjR3Ld/A==
   dependencies:
     "@jorsek/ezd-client" "^1.1.9"
-    "@jorsek/gatsby-theme-easydita-core" "^0.12.9-next.6"
-    "@jorsek/static-portal-components" "^0.12.9-next.6"
+    "@jorsek/gatsby-theme-easydita-core" "^0.12.9-next.8"
+    "@jorsek/static-portal-components" "^0.12.9-next.8"
     "@material-ui/core" "~4.9.14"
     "@material-ui/icons" "~4.9.1"
     "@material-ui/lab" "^4.0.0-alpha.56"
@@ -2141,13 +2141,13 @@
     react-share "^4.0.1"
     use-query-params "^1.1.8"
 
-"@jorsek/static-portal-components@^0.12.9-next.6":
-  version "0.12.9-next.6"
-  resolved "https://registry.yarnpkg.com/@jorsek/static-portal-components/-/static-portal-components-0.12.9-next.6.tgz#836b74f1658a35f8165ad709c56290073b3a5ebe"
-  integrity sha512-MbJa2dGVR0ez5FB+qpEf/dQ2Gk45lqkr3nJv3QrdPOV/C71TUYy/RQEtQWFm+aTfuwlpdkIaG4ePcLK8ttZ5KQ==
+"@jorsek/static-portal-components@^0.12.9-next.8":
+  version "0.12.9-next.8"
+  resolved "https://registry.yarnpkg.com/@jorsek/static-portal-components/-/static-portal-components-0.12.9-next.8.tgz#cebcdb406d6b2dac16296defa94456328ab3a9c0"
+  integrity sha512-ynBqkhqEAY/E5RZE4j/RmqU4BJhpR5oMauqTidkX6HBzV0OxRVtrayhEdzLG515iUoKqwKUdIGxb1J21IqD64g==
   dependencies:
     "@jorsek/ezd-client" "^1.1.9"
-    "@jorsek/gatsby-theme-easydita-core" "^0.12.9-next.6"
+    "@jorsek/gatsby-theme-easydita-core" "^0.12.9-next.8"
     "@material-ui/core" "^4.9.14"
     "@material-ui/icons" "^4.9.1"
     "@material-ui/lab" "^4.0.0-alpha.56"

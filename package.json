@@ -16,7 +16,7 @@
     "serve": "gatsby serve"
   },
   "dependencies": {
-    "@jorsek/gatsby-theme-easydita-jsk": "^0.12.9-next.6",
+    "@jorsek/gatsby-theme-easydita-jsk": "^0.12.9-next.7",
     "auth0-js": "~9.12.2",
     "cross-env": "^7.0.2",
     "gatsby": "^2.22.17",
